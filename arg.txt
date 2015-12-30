@@ -1,0 +1,6 @@
+"arg48" "[Blitzkrieg] %N had a total of %i wins, %i losses, %i kills and %i deaths!"
+"arg49" "[Blitzkrieg] You had a total of %i wins, %i losses, %i kills and %i deaths!"
+"arg50""Revives: %i"
+"arg51" "Revives: %i - %N's Revives: %i"
+"arg52" "%N's Stats - Wins: %i | Losses: %i | Kills: %i | Deaths: %i"
+"arg53" "You can no longer be revived!"
