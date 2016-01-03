@@ -1,0 +1,140 @@
+"Phrases"
+{
+	"rps_lost"
+	{	
+		"#format" "{1:i},{2:N}"
+		"en"	"You lost {1} queue points to {2}!"
+	}
+	"rps_won"
+	{	
+		"#format" "{1:i},{2:N}"
+		"en"	"You won {1} queue points from {2}!"
+	}
+	"ff2boss_enabled"
+	{
+		"en"	"You currently have bosses enabled"
+	}
+	"ff2boss_disabled"
+	{
+		"en"	"You currently have bosses disabled"
+	}
+	"ff2comp_enabled"
+	{
+		"en"	"You currently have companions enabled"
+	}
+	"ff2comp_disabled"
+	{
+		"en"	"You currently have companions disabled"
+	}
+	"ff2_boss_selection"
+	{
+		"#format"	"{1:s}"
+		"en"	"Freak Fortress 2 Boss Selection:\n \nSelect a boss, skip a turn, view queue, skip a round or disable bosses.\nYou can also do /ff2boss <bossname> to select a boss!\n \nYour current selection is: {1}"
+	}
+	"to0_random"
+	{
+		"en"	"Random Boss"
+	}
+	"to0_resetpts"
+	{
+		"en"	"Skip a turn"
+	}
+	"to0_disablepts"
+	{
+		"en"	"Disable FF2 Bosses"
+	}
+	"to0_enablepts"
+	{
+		"en"	"Enable FF2 Bosses"
+	}
+	"to0_comfirmrandom"
+	{
+		"en"	"{olive}[FF2]{default} You will become a random boss. Changed your mind? Do {olive}/ff2boss{default} or {olive}/ff2boss <bossname>{default} to select a boss."
+	}
+	"to0_boss_selected"
+	{
+		"#format" "{1:s}"
+		"en"	"{olive}[FF2]{default} You have selected {1}. Changed your mind? Do {olive}/ff2boss{default} or {olive}/ff2boss <bossname>{default} to change your boss."
+	}
+	"FF2 Toggle Enabled Notification"
+	{
+		"en"			"You are currently in the Boss queue. Want to disable queue points? do !ff2toggle."
+	}
+	"FF2 Toggle Queue Notification"
+	{
+		"#format" 		"{1:i},{2:i}"
+		"en"			"You are #{1} in the Boss queue with {2} points."
+	}
+	"FF2 Toggle Disabled Notification"
+	{
+		"en"			"You are currently NOT in the Boss queue. Want to enable queue points? do !ff2toggle."
+	}
+	"FF2 Toggle Disabled Notification For Map"
+	{
+		"en"			"You are currently NOT in the Boss queue for the current map. Want to enable queue points? do !ff2toggle."
+	}
+	"FF2 Boss Toggle Notify"
+	{
+		"en"			"Please set your Boss queue preferences."
+	}
+	"FF2 Toggle Command"
+	{
+		"en"			"Use {olive}/ff2toggle{default} to toggle queue points on/off"
+	}
+	"FF2 Toggle Menu Title"
+	{
+		"en"			"Boss queue points preferences:"
+	}
+	"Enable Queue Points"
+	{
+		"en"			"Enable queue points"
+	}
+	"Disable Queue Points"
+	{
+		"en"			"Disable queue points"
+	}
+	"Disable Queue Points For This Map"
+	{
+		"en"			"Disable queue points for this map only"
+	}
+	"FF2 Companion Toggle Notify"
+	{
+		"en"			"Please set your companion selection preferences."
+	}
+	"FF2 Companion Command"
+	{
+		"en"			"Use {olive}/ff2companion{default} to toggle being selected as a companion for companion bosses"
+	}
+	"FF2 Companion Toggle Menu Title"
+	{
+		"en"			"Companion Boss preferences:"
+	}
+	"Enable Companion Selection"
+	{
+		"en"			"Allow being selected as a companion of a boss"
+	}
+	"Disable Companion Selection"
+	{
+		"en"			"Disallow being selected as a companion for a boss"
+	}
+	"Disable Companion Selection For Map"
+	{
+		"en"			"Disallow being selected as a companion for a boss for this map only"
+	}
+	"FF2 Companion Enabled"
+	{
+		"en"			"You will be picked as a companion of a boss. Don’t want to be picked as a companion? do {olive}!ff2companion{default}"
+	}
+	"FF2 Companion Disabled"
+	{
+		"en"			"You will not be picked as a companion of a boss. Want to be picked as a companion? do {olive}!ff2companion{default}"
+	}
+	"FF2 Companion Disabled For Map"
+	{
+		"en"			"You will not be picked as a companion of a boss for this map only. Want to be picked as a companion? do {olive}!ff2companion{default}"
+	}
+	"FF2 Companion Toggle Command"
+	{
+		"en"			"Use {olive}/ff2companion{default} to toggle being selected as a companion of a boss on/off"
+	}
+}
